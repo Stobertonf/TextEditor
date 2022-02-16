@@ -1,0 +1,5 @@
+D:\Ajuda\Cursos\C#\Cursos\Balta\TextEditor\obj\Debug\net6.0\TextEditor.csproj.AssemblyReference.cache
+D:\Ajuda\Cursos\C#\Cursos\Balta\TextEditor\obj\Debug\net6.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ajuda\Cursos\C#\Cursos\Balta\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfoInputs.cache
+D:\Ajuda\Cursos\C#\Cursos\Balta\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfo.cs
+D:\Ajuda\Cursos\C#\Cursos\Balta\TextEditor\obj\Debug\net6.0\TextEditor.csproj.CoreCompileInputs.cache
